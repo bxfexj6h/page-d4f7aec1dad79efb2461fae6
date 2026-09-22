@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "66a6cbef2402e5407d950b1e",
+  "owner": "bxfexj6h",
+  "repo": "page-d4f7aec1dad79efb2461fae6",
+  "title": "HySS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d4f7aec1dad79efb2461fae6",
+      "a": "HySS",
+      "b": "2027官方最新地址导航",
+      "entity": "HySS",
+      "brand": "HySS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bb7ee65c0dcece0b397fbc95dc89706a8b6be662bca07a1d64de90acfb57b07d",
+      "content": {
+        "primary_entity": "HySS",
+        "keyword1": "HySS",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "HySS 的订阅链接导入各平台客户端，配置步骤按各客户端文档操作。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和使用场景选择 HySS 套餐，完成订阅配置后即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐再开始",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开，帮助不同使用场景的用户快速找到合适的加速方案。",
+          "AI_FEATURES_INTRO": "套餐、设备与订阅周期是选择 HySS 的三个关键点。",
+          "AI_FEATURES_TITLE": "选择套餐时关注什么",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合个人轻量使用；旗舰版每月 300GB、5 台设备，兼顾流媒体和游戏。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、支持 20 台设备，适合多人共享或小型办公场景。",
+          "AI_FEATURE_TEXT_3": "月度订阅灵活，按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "团队与共享",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，三个步骤开始使用 HySS。",
+          "AI_GUIDE_TITLE": "如何开始使用 HySS",
+          "AI_HERO_INTRO": "HySS 提供多档海外加速订阅，覆盖基础版、旗舰版和团队版，按流量、设备数量和线路优化程度区分，满足个人与团队不同场景。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配不同设备",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，优化游戏体验",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，支持 20 台设备共享",
+          "AI_PLANS_INTRO": "三档套餐按流量和并发设备数区分，对比后可按年付节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和需要同时在线的设备数量，从基础版、旗舰版或团队版中选一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备类型和线路需求匹配使用场景。",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档导入订阅链接，完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "HySS 多档订阅可选",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。可根据日常用量和设备数量选择。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 IPLC 专线优化，适合游戏与实时传输；团队版提供 VIP 高带宽节点和企业定制路由，适合团队协作场景。",
+          "AI_FAQ_ANSWER_3": "基础版适合个人单设备或双设备使用；旗舰版支持 5 台设备在线，适合手机、平板与电脑同时连接；团队版最多支持 20 台设备。",
+          "AI_FAQ_ANSWER_4": "年付方式下，基础版为 ¥150/年，旗舰版为 ¥350/年，团队版为 ¥850/年，相比月付更为节省。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中新建订阅，粘贴购买后获得的订阅地址，更新节点配置后即可使用。不同系统的导入步骤请参照客户端文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "HySS 三档套餐的流量和在线设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版在节点线路上有什么不同？",
+          "AI_FAQ_QUESTION_3": "不同设备数量应该选择哪个套餐？",
+          "AI_FAQ_QUESTION_4": "年付价格比月付便宜多少？",
+          "AI_FAQ_QUESTION_5": "订阅导入客户端的基本步骤是什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ysscfk.cn",
+    "host": "ysscfk.cn"
+  },
+  "file_hashes": {
+    "index.html": "513625c8d7cd3083f74f28114ee9a0b1e223e633861fe21ef9ae82bab12742e9",
+    "sitemap.xml": "fa30ddeb7cacb87a41e6bb8d890eb6cf3e4fadba78811641ed139f80c28bd36f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bd37f241e47813e632e2693b9b5b32c1afeaeaf566396457235e07b16acaae56",
+    "robots.txt": "18f674400c1e709ecaea1ec026287224f3e7e74421db6953f4046992383dbf33",
+    "ebbd5725debe09a2de5db8af5d96d1b8.txt": "d8928e50ed54e950309b53dfc61bd8fe874914affd3c3ff6ff7c1920b0d2b1ca"
+  },
+  "revision": "d983bb7d66f069f92d3b306344381954857d106b5992f5079077edd017547d00"
+}
